@@ -12,7 +12,7 @@ function getMenuChilds(item){
 			 	var cls = "dropdown-menu sub-menu";
 
 			 	var ul = "<ul class='" + cls + "'>" ;
-			 	alert(JSON.stringify(data.responseJSON));
+			 	//alert(JSON.stringify(data.responseJSON));
                          		$.each(data.responseJSON, function(index, value){
                          			var trigClass = "";
                          			if (value.childs == 1) { trigClass = " class='trigger right-caret' "};
