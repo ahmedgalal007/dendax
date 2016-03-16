@@ -52,13 +52,5 @@
 >- [x] Build the database by running the SQL file in the directory "/DB/DB.sql".
 >- [x] Creat the menu table by running the SQL file in the directory "/DB/MenuData.sql".
 >- [x] Modify the Config file "/Config.php" with your MySql server database configuration (host, port, user, password, database).
-<<<<<<< HEAD
->- [x] Host the application on Apatch server and run it.
-=======
 >- [x] Host the application on Apatch server and run it.
 
-
-
-
-
->>>>>>> 3b93b30fbbccfa62478ce03e9f4a8043dac8eab6
