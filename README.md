@@ -1,7 +1,7 @@
 ![Dendax Logo](http://dendax.com/assets/images/logo-dendax@2x.jpg)
 # dendax
 
-**_Auther: Ahmed Galal Mohamed_**
+**_Auther:Ahmed Galal Mohamed_**
 
 **_Company: Akhbar El Yom - Egypt_**
 
@@ -45,9 +45,10 @@
     ```
     Please refere to the "/DB/DB.sql" file
 
->INSTALLATION INSTRUCTION
+>##INSTALLATION INSTRUCTIONS
 >_______________________
 >
+>- [x] **[Download the files](https://github.com/ahmedgalal007/dendax.git)** from the Github repository.
 >- [x] Build the database by running the SQL file in the directory "/DB/DB.sql".
 >- [x] Creat the menu table by running the SQL file in the directory "/DB/MenuData.sql".
 >- [x] Modify the Config file "/Config.php" with your MySql server database configuration (host, port, user, password, database).
