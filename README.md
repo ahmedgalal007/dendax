@@ -1,4 +1,4 @@
-![Dendax Logo](http://dendax.com/assets/images/logo-dendax@2x.jpg)
+![Dendax Logo](https://dendax.com/assets/images/logo-dendax@2x.jpg)
 # dendax
 
 **_Auther:Ahmed Galal Mohamed_**
